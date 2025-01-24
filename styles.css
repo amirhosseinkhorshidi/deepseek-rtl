@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Vazir';
+  src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/fonts/webfonts/Vazirmatn-Regular.woff2') format('woff2');
+}
+
+.rtl-enabled .ds-markdown--block,
+.rtl-enabled .f9bf7997.c05b5566,
+.rtl-enabled .f9bf7997:nth-child(3) > div:nth-child(2) {
+  direction: rtl !important;
+  text-align: right !important;
+  font-family: 'Vazir', system-ui, -apple-system, sans-serif !important;
+  font-size: 1.05rem !important;
+  line-height: 1.7 !important;
+}
+
+.rtl-enabled [role="textbox"],
+.rtl-enabled [contenteditable="true"],
+.rtl-enabled textarea {
+  direction: rtl !important;
+  text-align: right !important;
+  font-family: 'Vazir', system-ui, -apple-system, sans-serif !important;
+  font-size: 1.05rem !important;
+  line-height: 1.7 !important;
+}
+
+.rtl-enabled code,
+.rtl-enabled pre {
+  direction: ltr !important;
+  text-align: left !important;
+  font-family: monospace !important;
+  font-size: 0.95rem !important;
+  line-height: 1.5 !important;
+}
+
+.cefa5c26 .c92459f0 {
+  resize: none;
+  color: rgb(var(--ds-rgb-label-1));
+  caret-color: rgb(var(--ds-rgb-label-1));
+  background-color: transparent;
+  position: absolute;
+  padding: 12px;
+  margin: 0;
+  box-sizing: border-box;
+}
