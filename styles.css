@@ -5,7 +5,8 @@
 
 .rtl-enabled .ds-markdown--block,
 .rtl-enabled .f9bf7997.c05b5566,
-.rtl-enabled .f9bf7997:nth-child(3) > div:nth-child(2) {
+.rtl-enabled .f9bf7997:nth-child(3) > div:nth-child(2),
+.rtl-enabled .fbb737a4 {
   direction: rtl !important;
   text-align: right !important;
   font-family: 'Vazir', system-ui, -apple-system, sans-serif !important;
